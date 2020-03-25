@@ -22,7 +22,7 @@ use fawkes_crypto::circuit::bitify::{into_bits_le};
 
 pub const PROOF_LENGTH:usize = 32;
 pub const AMOUNT_LENGTH:usize = 64;
-pub const N_TXS:usize = 256;
+pub const N_TXS:usize = 1024;
 
 #[derive(Clone)]
 pub struct Leaf<E:Engine> {
