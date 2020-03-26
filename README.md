@@ -1,6 +1,7 @@
 # Fawkes-Rollup
 
-This project is experimental and built for highload testing of [Fawkes-Crypto](https://github.com/zeropoolnetwork/fawkes-crypto) library. 
+This project is experimental. 
+Performance tests of [Fawkes-Crypto](https://github.com/zeropoolnetwork/fawkes-crypto) library are here.
 
 ## Spec
 
