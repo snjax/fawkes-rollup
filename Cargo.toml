@@ -9,7 +9,7 @@ edition = "2018"
 [dependencies]
 rand = "0.4"
 num = "0.2.1"
-
+fawkes-crypto = "0.2.3"
 
 [dependencies.bellman]
 version = "0.3.1"
@@ -26,10 +26,6 @@ package = "ff_ce"
 version = "0.18.0"
 package = "pairing_ce"
 
-[dependencies.fawkes_crypto]
-version = "0.2.3"
-path = "../fawkes-crypto"
-package = "fawkes-crypto"
 
 [dependencies.sapling_crypto]
 version = "0.1.2"
