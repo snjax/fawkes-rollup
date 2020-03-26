@@ -1,6 +1,6 @@
 [package]
 name = "fawkes-rollup"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Igor Gulamov <igor.gulamov@gmail.com>"]
 edition = "2018"
 
@@ -27,7 +27,7 @@ version = "0.18.0"
 package = "pairing_ce"
 
 [dependencies.fawkes_crypto]
-version = "0.2.2"
+version = "0.2.3"
 path = "../fawkes-crypto"
 package = "fawkes-crypto"
 
